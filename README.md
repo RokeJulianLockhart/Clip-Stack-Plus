@@ -55,7 +55,7 @@ WRITE_EXTERNAL_STORAGE and READ_EXTERNAL_STORAGE:  For export clipboard history.
 * selio/icon
 
 
-###License
+### License
 
 This application is comprised of two parts:
 
